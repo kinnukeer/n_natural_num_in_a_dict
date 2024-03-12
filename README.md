@@ -1,0 +1,1 @@
+# n_natural_num_in_a_dict
